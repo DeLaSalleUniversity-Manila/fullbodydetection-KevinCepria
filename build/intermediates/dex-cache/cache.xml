@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\kevincepria\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.0\support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.0_c542571bc7c524dc62bd9bcb6dbb304e3e1acd24.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1f8cf27a6710d9739a46505d305c68d9cd05f5dc">
+        <dex dex="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\pre-dexed\debug\instant-run_6ec521d2ea4043c32c3201a9dd06695f9f6d0c5f.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0_d18b88cb45a818cec5679e31700b36f6390cfbbd.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\incremental-classes\debug\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a13c6206c984547a0f90329a4d7d0172c782138">
+        <dex dex="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\pre-dexed\debug\classes_0161be6a9b7f134397dc3a7b625815766091bace.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.0_714cafbf31f8872d92bc61097892729219587fff.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="D:\AndroidStudioProjects\FullBodyDetection\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.0_1234da00a197ec64649d3b1957389182e0863161.jar" />
+    </item>
+
+</items>
